@@ -3,5 +3,9 @@ This script is a subdomain enumeration tool written in Bash. It automates the pr
 
 
 USAGE:
+
 chmod +x SubScout.sh
-./SubScout.sh example.com
+
+
+
+./SubScout.sh www.example.com or example.com
